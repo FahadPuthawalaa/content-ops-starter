@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: We Deliver The Digital Results You Desire!
+      text: We Deliver The Results You Desire!
       color: text-dark
       type: TitleBlock
     subtitle: ''
