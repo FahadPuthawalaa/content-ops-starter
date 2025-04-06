@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Ready to Grow Your Amazon Brand?
+      text: Proven Results
       color: text-dark
       styles:
         self:
