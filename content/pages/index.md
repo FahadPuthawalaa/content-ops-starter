@@ -414,7 +414,7 @@ seo:
   metaDescription: >-
     Fynxther offers expert Amazon seller account management services to help you
     launch, grow, and scale your business with proven results and maximum ROI.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Logo Horizontal.png
   type: Seo
 type: PageLayout
 ---
