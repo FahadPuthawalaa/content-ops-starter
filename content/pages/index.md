@@ -7,7 +7,7 @@ sections:
       text: We Deliver The Digital Results You Desire!
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Marketing is telling the world you're a rock star. Content Marketing is
       showing the world you are one! It’s Not An Advertising Agency, It’s An
