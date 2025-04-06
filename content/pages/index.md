@@ -412,8 +412,9 @@ sections:
 seo:
   metaTitle: Fynxther - Amazon Seller Account Management Services Provider
   metaDescription: >-
-    Fynxther offers expert Amazon seller account management services to help you
-    launch, grow, and scale your business with proven results and maximum ROI.
+    Fynxther provides complete Amazon seller account management - handling
+    everything from setup to scaling, so you can focus on growing your brand and
+    boosting profits.
   socialImage: /images/Logo Horizontal.png
   type: Seo
 type: PageLayout
