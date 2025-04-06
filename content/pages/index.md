@@ -385,10 +385,10 @@ sections:
       - title: ''
         tagline: ''
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I think Fahad is excellent at what he does. Not only that, but his
+          commitment is really good. I recommend him to any who need his
+          service.
         image:
           altText: John Doe
           styles:
