@@ -117,10 +117,8 @@ sections:
       - title: 600k+
         subtitle: Reimbursements Recovered
         text: >
-          Recovering over $600K in reimbursements by thoroughly auditing
-          accounts, identifying discrepancies, and effectively filing and
-          managing claims with Amazon to ensure sellers receive the funds
-          they’re entitled to.
+          Recovered over $600K in reimbursements by auditing accounts, spotting
+          discrepancies, and efficiently managing claims with Amazon!
         image:
           url: /images/icon3.svg
           altText: Featured icon three
