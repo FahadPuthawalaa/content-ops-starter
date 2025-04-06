@@ -118,7 +118,7 @@ sections:
           Recovered over $600K in reimbursements by auditing accounts, spotting
           discrepancies, and efficiently managing claims with Amazon!
         image:
-          url: /images/icon3.svg
+          url: /images/reimbursement.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
