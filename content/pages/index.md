@@ -112,7 +112,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 600k+
+      - title: $600k+
         subtitle: Reimbursements Recovered
         text: >
           Recovered over $600K in reimbursements by auditing accounts, spotting
