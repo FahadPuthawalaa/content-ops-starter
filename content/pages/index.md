@@ -94,7 +94,7 @@ sections:
           Delivering up to 250% ROI through strategic advertising campaigns,
           precise audience targeting, and continuous performance optimization!
         image:
-          url: /images/icon2.svg
+          url: /images/ads.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
