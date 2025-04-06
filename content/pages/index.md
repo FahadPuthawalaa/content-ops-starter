@@ -354,7 +354,7 @@ sections:
     items:
       - title: ''
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Maggie Lawrence
         text: >
           I hired Fahad Puthawala to optimize my new author site as I had little
           understanding of how to do this. Fahad gave me a very reasonable price
