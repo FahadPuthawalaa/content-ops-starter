@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: ''
+      label: dfd
       color: text-primary
       styles:
         self:
