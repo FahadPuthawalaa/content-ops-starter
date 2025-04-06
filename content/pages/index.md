@@ -64,8 +64,12 @@ sections:
       - type: FeaturedItem
         title: 15+
         subtitle: Brands Launched Successfully On Amazon
-        text: |
-          A strong track record of launching and scaling businesses on Amazon.
+        text: >
+          I have a strong track record of successfully launching and scaling
+          multiple businesses on Amazon, helping brands establish a solid
+          presence, increase sales, and achieve sustainable growth through
+          strategic planning, optimized listings, and data-driven
+          decision-making.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
