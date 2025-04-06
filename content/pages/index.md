@@ -194,7 +194,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Social Media Management
+      text: Complete Amazon Marketing Solutions
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
