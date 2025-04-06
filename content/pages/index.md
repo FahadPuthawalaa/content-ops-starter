@@ -11,8 +11,8 @@ sections:
     text: >
       With over 5 years of experience in Amazon seller account management, I
       specialize in turning ideas into thriving businesses by providing
-      end-to-end support—from product research and listing optimization to
-      advertising strategy and performance analysis—helping brands grow
+      end-to-end support - from product research and listing optimization to
+      advertising strategy and performance analysis - helping brands grow
       sustainably and profitably on the platform.
     actions:
       - label: Get started
