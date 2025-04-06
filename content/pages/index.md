@@ -150,7 +150,7 @@ sections:
         type: Button
     badge:
       label: ''
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
