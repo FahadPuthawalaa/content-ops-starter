@@ -44,17 +44,17 @@
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "Instagram link",
             "url": "http://instagram.com/fynxther",
             "icon": "instagram",
             "elementId": ""
+        },
+        {
+            "altText": "Email link",
+            "url": "/",
+            "icon": "mail",
+            "type": "Social"
         }
     ],
     "legalLinks": [
