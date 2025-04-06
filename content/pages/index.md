@@ -350,7 +350,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our clients say about Fynxther
+    subtitle: Satisfied Clients
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
