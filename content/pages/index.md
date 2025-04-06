@@ -311,7 +311,7 @@ sections:
       text: Get in touch!
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       Have questions or ready to take your Amazon business to the next level?
       We’re here to help! Whether you’re launching a new product, need help
