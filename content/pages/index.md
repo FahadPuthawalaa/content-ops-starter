@@ -411,7 +411,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Fynxther - Amazon Seller Account Management Services Provider
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Fynxther offers expert Amazon seller account management services to help you
+    launch, grow, and scale your business with proven results and maximum ROI.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
