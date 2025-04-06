@@ -94,7 +94,7 @@ sections:
         subtitle: Average ROI
         text: >
           Delivering up to 250% ROI through strategic advertising campaigns,
-          precise audience targeting, and continuous performance optimization.
+          precise audience targeting, and continuous performance optimization!
         image:
           url: /images/icon2.svg
           altText: Featured icon two
