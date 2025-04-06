@@ -59,7 +59,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Data-driven results that speak for themselves. Here's how I've helped
+      businesses grow.
     items:
       - type: FeaturedItem
         title: 15+
