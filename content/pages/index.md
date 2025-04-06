@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: ''
+      label: vvc
       color: text-dark
       styles:
         self:
