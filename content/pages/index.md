@@ -357,10 +357,13 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I hired Fahad Puthawala to optimize my new author site as I had little
+          understanding of how to do this. Fahad gave me a very reasonable price
+          for the work and it was done quickly. He also kept me informed along
+          the way about the progress. I was happy after he had finished to get
+          an email from google commenting on how much more traffic I was getting
+          to my site. I really recommend Fahad. He is great to work with.
         image:
           altText: Maria Walters
           styles:
