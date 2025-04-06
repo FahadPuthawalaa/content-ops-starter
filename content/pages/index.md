@@ -194,7 +194,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Complete Amazon Marketing Solutions
+      text: Amazon Marketing Solutions
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
