@@ -410,9 +410,12 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Fynxther - Amazon Seller Account Management Services Provider
+  metaDescription: >-
+    Fynxther provides complete Amazon seller account management - handling
+    everything from setup to scaling, so you can focus on growing your brand and
+    boosting profits.
+  socialImage: /images/Logo Horizontal.png
   type: Seo
 type: PageLayout
 ---
