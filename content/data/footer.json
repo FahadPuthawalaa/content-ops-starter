@@ -54,6 +54,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "http://instagram.com/fynxther",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
