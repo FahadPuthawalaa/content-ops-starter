@@ -353,7 +353,7 @@ sections:
     subtitle: Satisfied Clients
     items:
       - title: ''
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: Maggie Lawrence
         text: >
           I hired Fahad Puthawala to optimize my new author site as I had little
