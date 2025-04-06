@@ -92,10 +92,9 @@ sections:
               borderRadius: x-large
       - title: 250%
         subtitle: Average ROI
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Delivering up to 250% ROI through strategic advertising campaigns,
+          precise audience targeting, and continuous performance optimization.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
