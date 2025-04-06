@@ -53,7 +53,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      Data-driven results that speak for themselvesHere's how I've helped
+      Data-driven results that speak for themselves.Here's how I've helped
       businesses grow.
     items:
       - type: FeaturedItem
