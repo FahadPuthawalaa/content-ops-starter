@@ -67,7 +67,7 @@ sections:
         text: >
           A proven track record of successfully launching and scaling businesses
           on Amazon through strategic planning, optimized listings, and
-          data-driven growth
+          data-driven growth!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
