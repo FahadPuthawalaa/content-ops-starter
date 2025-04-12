@@ -1,7 +1,7 @@
 ---
 title: Building a $50K+ Pet Brand on Amazon in Just 7 Months
 slug: case-study-1
-date: '2025-03-05'
+date: '2025-04-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
