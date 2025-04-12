@@ -135,9 +135,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Contact Us & Get Free Account Audit
         altText: ''
-        url: /
+        url: fynxther@gmail.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
