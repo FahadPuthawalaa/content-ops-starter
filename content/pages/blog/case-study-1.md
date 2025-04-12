@@ -29,9 +29,10 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          A new entrant in the pet products category approached Fynxther with
+          zero online presence, no brand awareness, and a single product idea.
+          The goal? Build a recognizable Amazon brand with consistent sales,
+          solid reviews, and profitable ad spend.
         image:
           url: /images/telus-logo.svg
           altText: Company logo
