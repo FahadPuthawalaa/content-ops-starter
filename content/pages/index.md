@@ -272,7 +272,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: 'Patrick Grayson, Easy-Spelling'
         tagline: ''
         subtitle: ''
         text: >
