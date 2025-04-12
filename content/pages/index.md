@@ -115,7 +115,7 @@ sections:
       - title: $400k+
         subtitle: Reimbursements Recovered
         text: >
-          Recovered over $600K in reimbursements by auditing accounts, spotting
+          Recovered over $400K+ in reimbursements by auditing accounts, spotting
           discrepancies, and efficiently managing claims with Amazon!
         image:
           url: /images/reimbursement.png
@@ -166,7 +166,7 @@ sections:
         textAlign: center
   - posts:
       - content/pages/blog/building-pet-brand-amazon-7-months.md
-      - content/pages/blog/case-study-2.md
+      - content/pages/blog/record-breaking-campaign-sports-accessories.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
