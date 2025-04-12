@@ -9,7 +9,7 @@ excerpt: >-
   boost visibility, lower ACOS, and drive a sharp increase in new customer
   orders.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: '/images/ChatGPT Image Apr 12, 2025, 06_28_29 PM.png'
   altText: Case study 2
   styles:
     self:
