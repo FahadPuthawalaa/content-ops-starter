@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: '/images/ChatGPT Image Apr 12, 2025, 02_29_20 PM.png'
   altText: Building a $50K+ Pet Brand on Amazon in Just 7 Months
   styles:
     self:
