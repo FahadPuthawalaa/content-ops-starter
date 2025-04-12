@@ -1,5 +1,5 @@
 ---
-title: IBuilding a $50K+ Pet Brand On Amazon in Just 7 Months
+title: Building a $50K+ Pet Brand On Amazon in Just 7 Months
 slug: building-pet-brand-amazon-7-months
 date: '2025-04-12'
 excerpt: >-
