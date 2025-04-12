@@ -108,8 +108,6 @@ type: PostLayout
 
 *   Designed high-quality, lifestyle-focused product images and A+ content to build trust and drive conversions.
 
-
-
 2\. Smart Ad Spending
 
 *   Launched with a focused PPC strategy targeting long-tail, low-competition keywords.
@@ -117,8 +115,6 @@ type: PostLayout
 *   Gradually scaled ad budget while continuously optimizing for best-performing campaigns.
 
 *   Maintained an average ROAS of 200% by refining bids, negative keyword targeting, and leveraging Sponsored Brands & Sponsored Display.
-
-
 
 3\. Review Generation
 
@@ -128,15 +124,11 @@ type: PostLayout
 
 *   Reached 60+ positive reviews with an average rating of 4.6 stars.
 
-
-
 4\. Brand Building
 
 *   Set up an Amazon Storefront to establish a cohesive brand identity.
 
 *   Used Amazon Brand Analytics to understand customer behavior and expand product targeting.
-
-
 
 🚀 Results After 7 Months
 
@@ -150,9 +142,6 @@ type: PostLayout
 
 *   🛒 Now expanding with new SKUs and targeting international marketplaces
 
-
-
 💡 Key Takeaway
 
 With the right mix of strategic ad spend, listing optimization, and customer experience, even a brand starting from scratch can break into competitive categories and build serious momentum on Amazon.
-
