@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: '/images/ChatGPT Image Apr 12, 2025, 02_29_20 PM.png'
   altText: Building a $50K+ Pet Brand on Amazon in Just 7 Months
   styles:
     self:
@@ -27,13 +27,14 @@ bottomSections:
     type: DividerSection
   - items:
       - title: About Company
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          A new entrant in the pet products category approached Fynxther with
+          zero online presence, no brand awareness, and a single product idea.
+          The goal? Build a recognizable Amazon brand with consistent sales,
+          solid reviews, and profitable ad spend.
         image:
-          url: /images/telus-logo.svg
+          url: /images/brand.png
           altText: Company logo
           styles:
             self:
