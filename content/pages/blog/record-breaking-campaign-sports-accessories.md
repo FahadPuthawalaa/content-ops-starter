@@ -1,5 +1,5 @@
 ---
-title: Record-Breaking Campaign for a Sports Accessories Brand
+title: Record-Breaking Amazon Ads Campaign For A Sports Accessories Brand
 slug: record-breaking-campaign-sports-accessories
 date: '2023-03-27'
 excerpt: >-
