@@ -318,27 +318,35 @@ sections:
       optimizing your account, or looking to boost your ROI, feel free to reach
       out.
     media:
+      type: FormBlock
       fields:
-        - name: name
+        - type: TextFormControl
+          name: name
           label: Name
           hideLabel: true
           placeholder: Your name
           isRequired: true
           width: full
-          type: TextFormControl
-        - name: email
+        - type: EmailFormControl
+          name: email
           label: Email
           hideLabel: true
           placeholder: Your email
           isRequired: true
           width: full
-          type: EmailFormControl
-        - name: message
+        - type: TextareaFormControl
+          name: message
           label: Message
           hideLabel: true
           placeholder: Your message
           width: full
-          type: TextareaFormControl
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
       elementId: contact-form
       styles:
         self:
@@ -351,15 +359,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: contact-form
     badge:
       label: ''
       color: text-primary
