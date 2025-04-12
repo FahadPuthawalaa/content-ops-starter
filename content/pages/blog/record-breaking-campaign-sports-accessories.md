@@ -1,6 +1,6 @@
 ---
 title: Record-Breaking Campaign for a Sports Accessories Brand
-slug: case-study-2
+slug: record-breaking-campaign-sports-accessories
 date: '2023-03-27'
 excerpt: >-
   The client wanted to scale aggressively during the seasonal surge in sports
