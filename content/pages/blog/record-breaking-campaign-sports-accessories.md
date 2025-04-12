@@ -91,6 +91,7 @@ seo:
   type: Seo
   metaTitle: Record-Breaking Campaign for a Sports Accessories Brand
   metaDescription: The client wanted to scale aggressively during a major sports season.
+  socialImage: '/images/ChatGPT Image Apr 12, 2025, 06_28_29 PM.png'
 ---
 ![](/images/ChatGPT%20Image%20Apr%2012,%202025,%2006_28_29%20PM.png)
 
