@@ -3,10 +3,10 @@ title: Building a $50K+ Pet Brand on Amazon in Just 7 Months
 slug: case-study-1
 date: '2025-04-12'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  A new entrant in the pet products category approached Fynxther with zero
+  online presence, no brand awareness, and a single product idea. The goal?
+  Build a recognizable Amazon brand with consistent sales, solid reviews, and
+  profitable ad spend.
 featuredImage:
   url: '/images/ChatGPT Image Apr 12, 2025, 02_29_20 PM.png'
   altText: Building a $50K+ Pet Brand on Amazon in Just 7 Months
