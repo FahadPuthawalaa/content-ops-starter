@@ -1,6 +1,6 @@
 ---
 title: Building a $50K+ Pet Brand on Amazon in Just 7 Months
-slug: case-study-1
+slug: building-pet-brand-amazon-7-months
 date: '2025-04-12'
 excerpt: >-
   A new entrant in the pet products category approached Fynxther with zero
