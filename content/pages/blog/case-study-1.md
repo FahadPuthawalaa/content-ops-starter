@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: Pet Brand
         tagline: ''
         subtitle: >-
           A new entrant in the pet products category approached Fynxther with
