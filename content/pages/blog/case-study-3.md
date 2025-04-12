@@ -1,7 +1,7 @@
 ---
 title: Over $400K Recovered in FBA Claims for Amazon Sellers
 slug: case-study-3
-date: '2025-04-01'
+date: '2025-04-12'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
