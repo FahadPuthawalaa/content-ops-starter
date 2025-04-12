@@ -359,7 +359,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: contact-form
     badge:
       label: ''
       color: text-primary
