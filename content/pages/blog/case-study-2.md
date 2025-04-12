@@ -3,10 +3,10 @@ title: Record-Breaking Campaign for a Sports Game Brand
 slug: case-study-2
 date: '2023-03-27'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  The client wanted to scale aggressively during a major sports season. Previous
+  campaigns had delivered moderate returns, but they were looking for a
+  breakthrough - both in sales volume and return on ad spend. The goal was
+  clear: make this the most profitable campaign to date.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 2
