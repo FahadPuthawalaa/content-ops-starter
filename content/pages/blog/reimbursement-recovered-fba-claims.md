@@ -1,15 +1,10 @@
 ---
-title: Case study 3
-slug: case-study-3
-date: '2021-11-18'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+title: Over $400K Recovered in FBA Claims for Amazon Sellers
+slug: reimbursement-recovered-fba-claims
+date: '2025-04-12'
+excerpt: Recovered over $400K to date through diligent claim management.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/img-placeholder.svg
   altText: Case study 3
   styles:
     self:
