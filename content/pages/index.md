@@ -137,7 +137,7 @@ sections:
     actions:
       - label: Contact Us & Get Free Account Audit
         altText: ''
-        url: fynxther@gmail.com
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right

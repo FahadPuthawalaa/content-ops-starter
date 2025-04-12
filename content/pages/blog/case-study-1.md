@@ -1,7 +1,7 @@
 ---
-title: Case study 1
+title: Building a $50K+ Pet Brand on Amazon in Just 7 Months
 slug: case-study-1
-date: '2022-01-05'
+date: '2025-04-12'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/img-placeholder.svg
-  altText: Case study 1
+  altText: Building a $50K+ Pet Brand on Amazon in Just 7 Months
   styles:
     self:
       borderRadius: large
