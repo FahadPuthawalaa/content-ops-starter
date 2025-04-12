@@ -34,7 +34,7 @@ bottomSections:
           The goal? Build a recognizable Amazon brand with consistent sales,
           solid reviews, and profitable ad spend.
         image:
-          url: /images/telus-logo.svg
+          url: /images/brand.png
           altText: Company logo
           styles:
             self:
