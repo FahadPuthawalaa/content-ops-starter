@@ -93,6 +93,7 @@ seo:
   metaDescription: >-
     A new entrant in the pet products category approached Fynxther with zero
     online presence, no brand awareness, and a single product idea.
+  socialImage: '/images/ChatGPT Image Apr 12, 2025, 02_29_20 PM.png'
 ---
 ![](/images/ChatGPT%20Image%20Apr%2012,%202025,%2002_29_20%20PM.png)
 
