@@ -274,7 +274,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: ''
-        subtitle: 'Patrick Grayson, Easy-Spelling'
+        subtitle: ''
         text: >
           I think Fahad is excellent at what he does. Not only that, but his
           commitment is really good. I recommend him to any who need his
