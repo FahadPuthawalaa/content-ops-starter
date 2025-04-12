@@ -166,7 +166,7 @@ sections:
         textAlign: center
   - posts:
       - content/pages/blog/building-pet-brand-amazon-7-months.md
-      - content/pages/blog/case-study-2.md
+      - content/pages/blog/record-breaking-campaign-sports-accessories.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
