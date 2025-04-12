@@ -88,6 +88,8 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+![](/images/ChatGPT%20Image%20Apr%2012,%202025,%2002_29_20%20PM.png)
+
 🧩 Challenges
 
 *   Highly competitive pet category
@@ -97,8 +99,6 @@ type: PostLayout
 *   Limited initial budget
 
 *   Need for fast, scalable growth
-
-
 
 🎯 Strategy & Execution
 
