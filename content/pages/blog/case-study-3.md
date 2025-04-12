@@ -2,7 +2,7 @@
 title: Over $400K Recovered in FBA Claims for Amazon Sellers
 slug: case-study-3
 date: '2025-04-12'
-excerpt: Recovered over $400K to date through diligent claim management
+excerpt: Recovered over $400K to date through diligent claim management.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 3
