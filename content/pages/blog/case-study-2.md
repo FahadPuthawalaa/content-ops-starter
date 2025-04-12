@@ -88,7 +88,7 @@ styles:
 type: PostLayout
 seo:
   type: Seo
-  metaTitle: Record-Breaking Campaign for a Sports Game Brand
+  metaTitle: Record-Breaking Campaign for a Sports Accessories Brand
   metaDescription: The client wanted to scale aggressively during a major sports season.
 ---
 
