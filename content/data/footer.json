@@ -9,16 +9,16 @@
         "title": "Product",
         "links": [
             {
-                "label": "Blogs",
-                "url": "/",
+                "label": "Pricing",
+                "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Blogs",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
