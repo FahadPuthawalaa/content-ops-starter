@@ -1,5 +1,5 @@
 ---
-title: Record-Breaking Campaign for a Sports Game Brand
+title: Record-Breaking Campaign for a Sports Accessories Brand
 slug: case-study-2
 date: '2023-03-27'
 excerpt: >-
