@@ -3,10 +3,11 @@ title: Record-Breaking Amazon Ads Campaign for a Sports Accessories Brand
 slug: record-breaking-campaign-sports-accessories
 date: '2023-03-27'
 excerpt: >-
-  The client wanted to scale aggressively during the seasonal surge in sports
-  and outdoor activities. Previous ad campaigns had shown moderate success, but
-  they aimed for a game-changing performance this time - with bold revenue
-  targets and a desire to acquire thousands of new customers.
+  The brand wanted to dominate Amazon search results during a high-traffic
+  season. Despite decent historical performance, they had yet to fully
+  capitalize on Amazon’s ad ecosystem. The target was ambitious: significantly
+  boost visibility, lower ACOS, and drive a sharp increase in new customer
+  orders.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 2
