@@ -2,11 +2,7 @@
 title: Over $400K Recovered in FBA Claims for Amazon Sellers
 slug: case-study-3
 date: '2025-04-12'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: Recovered over $400K to date through diligent claim management
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 3
