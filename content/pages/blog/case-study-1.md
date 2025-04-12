@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/img-placeholder.svg
-  altText: Case study 1
+  altText: Building a $50K+ Pet Brand on Amazon in Just 7 Months
   styles:
     self:
       borderRadius: large
