@@ -3,10 +3,10 @@ title: Record-Breaking Campaign for a Sports Accessories Brand
 slug: case-study-2
 date: '2023-03-27'
 excerpt: >-
-  The client wanted to scale aggressively during a major sports season. Previous
-  campaigns had delivered moderate returns, but they were looking for a
-  breakthrough - both in sales volume and return on ad spend. The goal was
-  clear: make this the most profitable campaign to date.
+  The client wanted to scale aggressively during the seasonal surge in sports
+  and outdoor activities. Previous ad campaigns had shown moderate success, but
+  they aimed for a game-changing performance this time - with bold revenue
+  targets and a desire to acquire thousands of new customers.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 2
