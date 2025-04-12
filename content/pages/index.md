@@ -242,7 +242,7 @@ sections:
     title: null
     subtitle: Satisfied Clients
     items:
-      - title: ''
+      - title: Maggie Lawrence
         tagline: ''
         subtitle: Maggie Lawrence
         text: >
