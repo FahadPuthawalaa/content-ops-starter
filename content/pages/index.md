@@ -165,7 +165,7 @@ sections:
       subtitle:
         textAlign: center
   - posts:
-      - content/pages/blog/case-study-1.md
+      - content/pages/blog/building-pet-brand-amazon-7-months.md
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
