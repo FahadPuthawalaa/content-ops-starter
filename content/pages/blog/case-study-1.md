@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Building a $50K+ Pet Brand on Amazon in Just 7 Months
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
