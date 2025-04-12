@@ -98,9 +98,7 @@ type: PostLayout
 
 *   Need for fast, scalable growth
 
-```
-<br>
-```
+
 
 🎯 Strategy & Execution
 
