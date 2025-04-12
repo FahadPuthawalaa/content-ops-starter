@@ -89,6 +89,7 @@ styles:
 type: PostLayout
 seo:
   type: Seo
+  metaTitle: B
 ---
 ![](/images/ChatGPT%20Image%20Apr%2012,%202025,%2002_29_20%20PM.png)
 
