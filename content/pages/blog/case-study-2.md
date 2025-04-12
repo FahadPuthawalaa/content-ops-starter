@@ -1,7 +1,7 @@
 ---
 title: Record-Breaking Campaign for a Sports Game Brand
 slug: case-study-2
-date: '2023-02-27'
+date: ''
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
