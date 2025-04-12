@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: About Company
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
           A new entrant in the pet products category approached Fynxther with
           zero online presence, no brand awareness, and a single product idea.
