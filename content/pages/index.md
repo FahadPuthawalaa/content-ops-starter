@@ -136,7 +136,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Contact Fynxther Now!
-        subtitle: Sales
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
