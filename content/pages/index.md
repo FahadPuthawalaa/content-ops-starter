@@ -289,6 +289,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: submit
       elementId: contact
       styles:
         self:
