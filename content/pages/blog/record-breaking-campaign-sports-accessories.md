@@ -40,11 +40,13 @@ seo:
 ---
 ![](/images/ChatGPT%20Image%20Apr%2012,%202025,%2006_28_29%20PM.png)
 
-🧠 The Challenge
+### 🧠 The Challenge
 
 The brand wanted to dominate Amazon search results during a high-traffic season. Despite decent historical performance, they had yet to fully capitalize on Amazon’s ad ecosystem. The target was ambitious: significantly boost visibility, lower ACOS, and drive a sharp increase in new customer orders.
 
-🎯 The Strategy
+
+
+### 🎯 The Strategy
 
 We built a robust full-funnel Amazon Ads strategy:
 
@@ -56,7 +58,9 @@ We built a robust full-funnel Amazon Ads strategy:
 
 *   **Campaign Segmentation:** Created segmented campaigns by match type, product category, and buyer intent for better control and performance tracking.
 
-💡 Key Campaign Elements
+
+
+### 💡 Key Campaign Elements
 
 *   **Lightning Deals & Coupons:** Aligned ad pushes with promotional pricing to increase conversion rate.
 
@@ -64,7 +68,9 @@ We built a robust full-funnel Amazon Ads strategy:
 
 *   **Brand Store Traffic:** Directed Sponsored Brand traffic to a well-designed Amazon Storefront showcasing top bundles and seasonal picks.
 
-🚀 The Results
+
+
+### 🚀 The Results
 
 *   Ad Spend: $128,000+
 
@@ -76,13 +82,17 @@ We built a robust full-funnel Amazon Ads strategy:
 
 *   New-to-Brand Customers: 2000+
 
-📌 Key Takeaways
+
+
+### 📌 Key Takeaways
 
 *   Granular targeting on Amazon = massive scale with control
 
 *   Coordinating deals with ad strategy supercharged conversions
 
 *   A/B testing product listings led to stronger purchase intent
+
+
 
 > 💬 Client Feedback:
 > “Our Amazon Ads were good before — now they’re unstoppable. This was our highest ROAS ever, and the momentum is still going. We’ve never felt more confident in scaling.”
