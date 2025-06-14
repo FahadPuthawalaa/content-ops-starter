@@ -136,7 +136,7 @@ sections:
         type: FeaturedItem
     actions:
       - type: Link
-        label: Send email
+        label: Send Email
         altText: Play
         url: fynxther@gmail.com
         showIcon: true
