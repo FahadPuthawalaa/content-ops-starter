@@ -256,7 +256,7 @@ sections:
       out.
 
 
-      For quick reply, send an email to **fynxther\@gmail.com.**
+      For quick reply, send an email
     media:
       type: FormBlock
       fields:
