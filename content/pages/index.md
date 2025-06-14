@@ -17,16 +17,7 @@ sections:
       From product research and listing optimization to advertising strategy and
       performance analysis - helping brands grow sustainably and profitably on
       the platform.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/job-5382501.jpg
       altText: Unblock your team boost your time to production preview
