@@ -175,16 +175,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
     title: null
     subtitle: Satisfied Clients
@@ -259,11 +249,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
+    text: >+
       Have questions or ready to take your Amazon business to the next level?
       We’re here to help! Whether you’re launching a new product, need help
       optimizing your account, or looking to boost your ROI, feel free to reach
       out.
+
+
+
+
+      For quick reply, send an email to
+      [fynxther@gmail.com.](fynxther@gmail.com)
+
+
     media:
       type: FormBlock
       fields:
