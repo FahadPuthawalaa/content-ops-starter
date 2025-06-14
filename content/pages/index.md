@@ -134,7 +134,16 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions: []
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: fynxther@gmail.com
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
       label: ''
       color: text-dark
