@@ -97,7 +97,7 @@ seo:
 ---
 ![](/images/ChatGPT%20Image%20Apr%2012,%202025,%2002_29_20%20PM.png)
 
-🧩 Challenges
+### 🧩 Challenges
 
 *   Highly competitive pet category
 
@@ -107,13 +107,17 @@ seo:
 
 *   Need for fast, scalable growth
 
-🎯 Strategy & Execution
+
+
+#### 🎯 Strategy & Execution
 
 1.  Listing Optimization
 
 *   Crafted compelling, keyword-rich titles, bullet points, and product descriptions.
 
 *   Designed high-quality, lifestyle-focused product images and A+ content to build trust and drive conversions.
+
+
 
 2\. Smart Ad Spending
 
@@ -123,6 +127,8 @@ seo:
 
 *   Maintained an average ROAS of 200% by refining bids, negative keyword targeting, and leveraging Sponsored Brands & Sponsored Display.
 
+
+
 3\. Review Generation
 
 *   Implemented a follow-up email flow through Amazon’s Request a Review system.
@@ -131,13 +137,17 @@ seo:
 
 *   Reached 60+ positive reviews with an average rating of 4.6 stars.
 
+
+
 4\. Brand Building
 
 *   Set up an Amazon Storefront to establish a cohesive brand identity.
 
 *   Used Amazon Brand Analytics to understand customer behavior and expand product targeting.
 
-🚀 Results After 7 Months
+
+
+### 🚀 Results After 7 Months
 
 *   💰 $52,000+ in total sales
 
@@ -149,6 +159,8 @@ seo:
 
 *   🛒 Now expanding with new SKUs and targeting international marketplaces
 
-💡 Key Takeaway
+
+
+### 💡 Key Takeaway
 
 With the right mix of strategic ad spend, listing optimization, and customer experience, even a brand starting from scratch can break into competitive categories and build serious momentum on Amazon.
