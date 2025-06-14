@@ -263,7 +263,7 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: name
+          name: Contact
           label: Name
           hideLabel: true
           placeholder: Your name
