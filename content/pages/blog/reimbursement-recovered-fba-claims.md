@@ -85,6 +85,8 @@ type: PostLayout
 ---
 > We partnered with a network of experienced Amazon FBA sellers managing multiple private-label brands across diverse product categories - ranging from electronics to pet supplements. Collectively, their annual revenue exceeded $10 million, and they relied heavily on Amazon's Fulfillment by Amazon (FBA) network to handle logistics, warehousing, and shipping.
 
+
+
 ### **Challenge**
 
 Despite robust sales, the sellers faced massive revenue leakage due to unclaimed or denied FBA reimbursements. Some of the key challenges included:
@@ -99,7 +101,7 @@ Despite robust sales, the sellers faced massive revenue leakage due to unclaimed
 
 *   Incorrect Weight/Dimension Fees: Sellers were unknowingly overcharged due to misclassified package sizes and weights.
 
-****
+***
 
 ### **Our Solution**
 
@@ -119,8 +121,6 @@ We implemented a 3-phase Reimbursement Recovery Strategy tailored to each seller
 
     *   Customer refund abuse or mismatches
 
-
-
 #### Phase 2: Claims Filing & Dispute Management
 
 *   Filed over 3,000 claims systematically across multiple seller accounts using customized case documentation.
@@ -128,8 +128,6 @@ We implemented a 3-phase Reimbursement Recovery Strategy tailored to each seller
 *   Followed up persistently with Amazon Seller Support teams on delayed or partially reimbursed claims.
 
 *   Refiled and escalated denied cases, with evidence-backed justifications to ensure compliance with Amazon’s reimbursement policy.
-
-
 
 #### Phase 3: Ongoing Monitoring & Prevention
 
@@ -153,7 +151,7 @@ We implemented a 3-phase Reimbursement Recovery Strategy tailored to each seller
 
 ✅ 250+ expired claim cases prevented through early identification
 
-****
+***
 
 **Conclusion**
 
