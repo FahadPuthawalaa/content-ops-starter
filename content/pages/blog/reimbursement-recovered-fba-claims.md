@@ -4,7 +4,7 @@ slug: reimbursement-recovered-fba-claims
 date: '2025-04-12'
 excerpt: Recovered over $400K to date through diligent claim management.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: '/images/ChatGPT Image Jun 14, 2025, 11_32_27 AM.png'
   altText: Case study 3
   styles:
     self:
