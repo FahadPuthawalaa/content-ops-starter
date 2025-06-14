@@ -249,19 +249,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       Have questions or ready to take your Amazon business to the next level?
       We’re here to help! Whether you’re launching a new product, need help
       optimizing your account, or looking to boost your ROI, feel free to reach
       out.
 
 
-
-
-      For quick reply, send an email to
-      [fynxther@gmail.com.](fynxther@gmail.com)
-
-
+      For quick reply, send an email to **fynxther\@gmail.com.**
     media:
       type: FormBlock
       fields:
