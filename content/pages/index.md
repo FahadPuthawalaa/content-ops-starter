@@ -137,7 +137,7 @@ sections:
     actions:
       - type: Link
         label: Send Email
-        altText: Play
+        altText: Email Fynxther
         url: fynxther@gmail.com
         showIcon: true
         icon: mail
