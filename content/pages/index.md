@@ -147,8 +147,8 @@ sections:
       subtitle:
         textAlign: center
   - posts:
-      - content/pages/blog/building-pet-brand-amazon-7-months.md
       - content/pages/blog/record-breaking-campaign-sports-accessories.md
+      - content/pages/blog/building-pet-brand-amazon-7-months.md
       - content/pages/blog/reimbursement-recovered-fba-claims.md
     showThumbnail: true
     showDate: true
