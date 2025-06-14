@@ -135,15 +135,15 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Contact Us & Get Free Account Audit
-        altText: ''
-        url: ''
-        showIcon: false
-        icon: arrowRight
+      - type: Link
+        label: Send Email
+        altText: Email Fynxther
+        url: fynxther@gmail.com
+        showIcon: true
+        icon: mail
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
-        type: Button
     badge:
       label: ''
       color: text-dark
