@@ -17,16 +17,7 @@ sections:
       From product research and listing optimization to advertising strategy and
       performance analysis - helping brands grow sustainably and profitably on
       the platform.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/job-5382501.jpg
       altText: Unblock your team boost your time to production preview
@@ -134,16 +125,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - type: Link
-        label: Send Email
-        altText: Email Fynxther
-        url: fynxther@gmail.com
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     badge:
       label: ''
       color: text-dark
@@ -193,41 +175,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Amazon Marketing Solutions
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/digital.png
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
