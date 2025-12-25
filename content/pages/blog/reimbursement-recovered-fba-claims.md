@@ -28,7 +28,7 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-![](/images/ChatGPT%20Image%20Jun%2014,%202025,%2011_32_27%20AM.png)
+![](/images/ChatGPT%20Image%20Jun%2014,%202025,%2011_32_27%20AM.jpg)
 
 > We partnered with a network of experienced Amazon FBA sellers managing multiple private-label brands across diverse product categories - ranging from electronics to pet supplements. Collectively, their annual revenue exceeded $10 million, and they relied heavily on Amazon's Fulfillment by Amazon (FBA) network to handle logistics, warehousing, and shipping.
 
